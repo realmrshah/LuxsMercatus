@@ -192,7 +192,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> Conta
     <!-- All Plugins js -->
     <script src="js/others/plugins.js"></script>
     <!-- Google Maps js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDk9KNSL1jTv4MY9Pza6w8DJkpI_nHyCnk"></script>
+    <script src="googlemaps"></script>
     <script src="js/google-map/map-active.js"></script>
     <!-- Active JS -->
     <script src="js/active.js"></script>
