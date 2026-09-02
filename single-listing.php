@@ -429,7 +429,7 @@
                     <div class="footer-text">
                         <p>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://intsgram.com/_.hedonist._" target="_blank">Lucifiuer</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> | Contact Us: +91 | Made by realmrshah <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://intsgram.com/_.hedonist._" target="_blank">Lucifiuer</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
