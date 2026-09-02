@@ -5,7 +5,7 @@
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
 
-<p>Owned by Lucifiuer
+<p>Owned by realmrshah
 <?php
 if(isset($_SESSION['name']))
 {
@@ -55,8 +55,8 @@ if(isset($_SESSION['name']))
 <p>
     <p>
      <p>With Regards
-     <p> Shankar H
-<p>Contact No. +91 7204873414
+     <p> realmrshah
+
 </div>
 </div>
 
