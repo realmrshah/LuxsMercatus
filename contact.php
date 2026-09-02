@@ -117,12 +117,12 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac nibh sed mi ullamcorper rhoncus. Curabitur pulvinar vel augue sit amet vestibulum. Proin tempus lacus porta lorem blandit aliquam eget quis ipsum. Vivamus accumsan consequat ligula non volutpat. Sed mollis orci non cursus vestibulum. Pellentesque vitae est a augue laoreet venenatis sed eu felis. Sed cursus magna nec turpis ullamcorper, eget rutrum felis egestas. Nunc odio ex, fermentum efficitur nunc vitae, efficitur hendrerit diam. Lorem ipsum dolor sit amet, consectetur.</p>
                 <div class="contact-info d-lg-flex">
                     <div class="single-contact-info">
-                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> Main Avenue Soho, NY</h6>
-                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> No. 25-33</h6>
+                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i>  Soho, NY</h6>
+                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> </h6>
                     </div>
                     <div class="single-contact-info">
-                        <h6><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@yourbusiness.com</h6>
-                        <h6><i class="fa fa-phone" aria-hidden="true"></i> +34 567 22478 49567</h6>
+                        <h6><i class="fa fa-envelope-o" aria-hidden="true"></i> yourbusiness.com</h6>
+                        <h6><i class="fa fa-phone" aria-hidden="true"></i> 91 </h6>
                     </div>
                 </div>
             </div>
