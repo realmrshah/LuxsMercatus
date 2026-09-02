@@ -126,3 +126,7 @@ Product images, banners, and other visual assets can be added or replaced as the
 
 The goal of Luxs Mercatus is to create a simple, modern, and user-friendly online shopping platform that connects customers with products while providing administrators with the tools required to manage the store efficiently.
 
+
+
+"All rights reserved. This source code is provided for portfolio viewing purposes only. Unauthorized use, copying, modification, or distribution is strictly prohibited."
+
