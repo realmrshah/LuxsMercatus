@@ -206,7 +206,7 @@ Remove
                     <div class="footer-text">
                         <p>
                             <footer class="dorne-footer-area">
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Contact us @ +91 7204873414 | This template is made  <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://instagram.com/_.hedonist._" target="_blank">Lucifiuer+</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Contact Us: +91 | Made by realmrshah <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://instagram.com/_.hedonist._" target="_blank">Lucifiuer+</a>
                         </p>
                     </div>
                     
